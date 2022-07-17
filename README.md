@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hari Kiran
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Python, Machine Learing projects
+- 💞️ I’m looking to collaborate on Python, Machine Learing, Deep Learning, JS projects
 - 📫 How to reach me harikiransharu@gmail.com
 
 <!---
